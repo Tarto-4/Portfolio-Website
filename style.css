@@ -23,18 +23,5 @@ color: #90507F;
 flex: none;
 order: 0;
 flex-grow: 0;
-/* Vector */
-
-
-position: absolute;
-left: 16.67%;
-right: 16.67%;
-top: 50%;
-bottom: 50%;
-
-/* Base / 300 - Tertiary */
-
-border: 2px solid #ACB7C3;
-
 }
 
