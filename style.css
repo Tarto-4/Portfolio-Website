@@ -23,13 +23,17 @@ color: #90507F;
 flex: none;
 order: 0;
 flex-grow: 0;
-/* Normal Button/Tertiary/Enabled */
+/* Icons/Icon - Menu */
 
 
-/* Auto layout */
+width: 24px;
+height: 24px;
 
-display: flex;
-flex-direction: row;
-align-items: flex-start;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
 }
 
